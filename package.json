@@ -1,0 +1,14 @@
+{
+    "name": "shopping",
+    "version": "1.0.0",
+    "description": "first pagge",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass sass/main.scss css/style.css -w"
+    },
+    "author": "davoud",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.14.1"
+    }
+}

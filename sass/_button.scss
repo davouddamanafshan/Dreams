@@ -1,0 +1,15 @@
+.button {
+    // display: flex;
+    border-radius: 5px;
+    background-color: $color-yellow-light;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    padding: .8rem 1.8rem;
+    &:hover {
+        background-color: #dbad04;
+        box-shadow: 2px 2px 10px #b99100;
+        border-radius: 5px;
+    }
+}
